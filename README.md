@@ -18,7 +18,7 @@ git clone //  soon
 cd typing-speed-tester
 open main.html
 ## 📸 Demo
-![Image](https://github.com/user-attachments/assets/acc04c89-da67-4286-a932-64ffeaaa368d)
+![Image](https://github.com/user-attachments/assets/20580b8f-921b-4cd7-a13b-35148fc05a07)
 
 ##✨ Future Improvements
 - Typing history and progress charts
