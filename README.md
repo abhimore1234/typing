@@ -21,7 +21,7 @@ open main.html
 ## 📸 Demo
 ![Image](https://github.com/user-attachments/assets/20580b8f-921b-4cd7-a13b-35148fc05a07)
 
-##✨ Future Improvements
+## ✨ Future Improvements
 - Typing history and progress charts
 - Leaderboard integration
 - Multi-language support
